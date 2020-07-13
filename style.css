@@ -1032,7 +1032,11 @@ h4 {
         align-items: center;
         text-align: center;
     }
-    
+
+    .social{
+        display: flex;
+        justify-content: space-evenly;
+    }
 }
 
 @media (max-width: 400px) {
